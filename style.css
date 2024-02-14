@@ -94,4 +94,7 @@ main img {
         width: 328px;
     }
 
+    .info-link button {
+        widht: 280px;
+    }
 }
