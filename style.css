@@ -83,3 +83,15 @@ main img {
     background: var(--Green);
     color: var(--Off-Black);
 }
+
+@media screen and (max-width: 429px){
+    body {
+        display: flex;
+        justify-content: center
+    }
+
+    main {
+        width: 328px;
+    }
+
+}
